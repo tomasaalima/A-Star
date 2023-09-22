@@ -22,3 +22,5 @@ The A* algorithm is widely used due to its efficiency and ability to find optima
 
 #Example
 
+![Nós visitados (vermelho), Melhor escolha (verde)](public/example.png)
+
