@@ -23,12 +23,15 @@ The A* algorithm is widely used due to its efficiency and ability to find optima
 #Examples
 
 Start
+
 ![Actual node (Blue)](public/example3.png)
 
 Actual node (Blue) known nodes (Transparent) Visited nodes (Red)
+
 ![Actual node (Blue) known nodes (Transparent) Visited nodes (Red)](public/example2.png)
 
 
 Visited nodes (Red), best choice (Green)
+
 ![Visited nodes (Red), best choice (Green)](public/example.png)
 
