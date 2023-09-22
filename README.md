@@ -1,5 +1,5 @@
 # A-Star
-Example of the implementation of the A*(A-Star) algorithm in the search for the best path in the 8-Puzzle game
+Example of the implementation of the A*(A-Star) algorithm in the search for the best path in the 8-Puzzle game using react.js 
 
 # About
 The A* algorithm (pronounced "The Star") is a search algorithm used in artificial intelligence and many problem-solving applications, especially graph pathfinding problems. It was developed by Peter Hart, Nils Nilsson and Bertram Raphael in 1968 and is widely used in areas such as games, robotics, trajectory planning, among others.
