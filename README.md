@@ -20,7 +20,15 @@ A* continues to expand nodes until it finds the target node or until all nodes h
 
 The A* algorithm is widely used due to its efficiency and ability to find optimal solutions in many pathfinding problems. However, the quality of the solution depends on the heuristics used and, in some cases, may be affected by complex graph topologies or inappropriate heuristics. Therefore, choosing the appropriate heuristic is a critical aspect when applying the A* algorithm.
 
-#Example
+#Examples
 
-![Nós visitados (vermelho), Melhor escolha (verde)](public/example.png)
+Start
+![Actual node (Blue)](public/example3.png)
+
+Actual node (Blue) known nodes (Transparent) Visited nodes (Red)
+![Actual node (Blue) known nodes (Transparent) Visited nodes (Red)](public/example2.png)
+
+
+Visited nodes (Red), best choice (Green)
+![Visited nodes (Red), best choice (Green)](public/example.png)
 
